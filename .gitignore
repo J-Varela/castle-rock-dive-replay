@@ -1,0 +1,6 @@
+
+/data/raw/
+/experiments/castle_rock_dive_*.png
+.venv/
+__pycache__/
+*.pyc
